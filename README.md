@@ -7,7 +7,7 @@
 AI-Enhanced Customer Retention System (AIECRS) is an AI-based system designed to predict customer churn and suggest retention strategies.
 
 ## Offering
-This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [reece.dixon@quantascript.com](mailto:reece.dixon@quantascript.com).
+This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [quantascript@gmail.com](mailto:quantascript@gmail.com).
 
 ## Mathematical Equations
 
